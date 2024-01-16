@@ -1,6 +1,10 @@
 # articles
 Articles I've formally published or have been featured in!
 
+12/1/2022 - https://www.milcyber.org/activities/magazine/articles/2022/rhodes-information-operations-in-defense-support-to-civil-authorities
+
+10/29/2021 - https://www.milcyber.org/activities/magazine/articles/2021/rhodes-cyber-shield-2021-recap
+
 10/4/2021 - https://fedtechmagazine.com/article/2021/10/increased-network-visibility-decreases-cyber-risk-federal-agencies
 
 8/10/2021 - https://zvelo.com/zvelos-head-of-cybersecurity-leads-cyber-shield-2021/
